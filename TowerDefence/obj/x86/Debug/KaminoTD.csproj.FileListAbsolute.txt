@@ -1,0 +1,69 @@
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\obj\x86\Debug\TowerDefence.exe
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\obj\x86\Debug\TowerDefence.pdb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\obj\x86\Debug\KaminoTD.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Alien.xnb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\Content\enemy.xnb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\Content\GameOver.xnb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\Content\GrassOne.xnb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Mario.xnb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\Content\StoneOne.xnb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Tower.xnb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\Content\TowerThree.xnb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\Content\TowerTwo.xnb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\TowerDefence.exe
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\TowerDefence.pdb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.xml
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\01.OOP\TEAMWORK\KaminoTD\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\obj\x86\Debug\KaminoTD.csprojResolveAssemblyReference.cache
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\Tower.xnb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\TowerTwo.xnb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\Alien.xnb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\enemy.xnb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\GameOver.xnb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\GrassOne.xnb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\Mario.xnb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\StoneOne.xnb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\TowerThree.xnb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\TowerDefence.exe
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\TowerDefence.pdb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\obj\x86\Debug\TowerDefence.exe
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\obj\x86\Debug\TowerDefence.pdb
+D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\Mouse.xnb

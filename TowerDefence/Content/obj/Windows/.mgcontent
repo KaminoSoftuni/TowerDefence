@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Lichni/Dimi/Softuni/Fundamentals/OOP/TeamWork/TowerDefence-master/TowerDefence-master/TowerDefence/Content/GrassOne.png</File>
+    <File>D:/Lichni/Dimi/Softuni/Fundamentals/OOP/TeamWork/TowerDefence-master/TowerDefence-master/TowerDefence/Content/StoneOne.png</File>
+    <File>D:/Lichni/Dimi/Softuni/Fundamentals/OOP/TeamWork/TowerDefence-master/TowerDefence-master/TowerDefence/Content/TowerThree.png</File>
+    <File>D:/Lichni/Dimi/Softuni/Fundamentals/OOP/TeamWork/TowerDefence-master/TowerDefence-master/TowerDefence/Content/enemy.png</File>
+    <File>D:/Lichni/Dimi/Softuni/Fundamentals/OOP/TeamWork/TowerDefence-master/TowerDefence-master/TowerDefence/Content/Mario.png</File>
+    <File>D:/Lichni/Dimi/Softuni/Fundamentals/OOP/TeamWork/TowerDefence-master/TowerDefence-master/TowerDefence/Content/Alien.png</File>
+    <File>D:/Lichni/Dimi/Softuni/Fundamentals/OOP/TeamWork/TowerDefence-master/TowerDefence-master/TowerDefence/Content/GameOver.png</File>
+    <File>D:/Lichni/Dimi/Softuni/Fundamentals/OOP/TeamWork/TowerDefence-master/TowerDefence-master/TowerDefence/Content/Mouse.png</File>
+  </SourceFiles>
+</SourceFileCollection>
