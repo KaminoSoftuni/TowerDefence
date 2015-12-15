@@ -85,31 +85,6 @@ namespace KaminoTD.Map
                     {
                         spriteBatch.Draw(stone, new Vector2(j, i), Color.White);
                     }
-                    else if (IsOnPath(i, j))
-                    {
-                        spriteBatch.Draw(stone, new Vector2(j, i), Color.White);
-                    }
-                    else if (IsOnPath(i, j))
-                    {
-                        spriteBatch.Draw(stone, new Vector2(j, i), Color.White);
-                    }
-                    else if (IsOnPath(i, j))
-                    {
-                        spriteBatch.Draw(stone, new Vector2(j, i), Color.White);
-                    }
-                    else if (IsOnPath(i, j))
-                    {
-                        spriteBatch.Draw(stone, new Vector2(j, i), Color.White);
-                    }
-                    else if (IsOnPath(i, j))
-                    {
-                        spriteBatch.Draw(stone, new Vector2(j, i), Color.White);
-                    }
-                    else if (IsOnPath(i, j))
-                    {
-                        spriteBatch.Draw(stone, new Vector2(j, i), Color.White);
-                    }
-                    
                     else
                     {
                         spriteBatch.Draw(grass, new Vector2(j, i), Color.White);

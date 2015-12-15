@@ -67,3 +67,5 @@ D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefenc
 D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\obj\x86\Debug\TowerDefence.exe
 D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\obj\x86\Debug\TowerDefence.pdb
 D:\Lichni\Dimi\Softuni\Fundamentals\OOP\TeamWork\TowerDefence-master\TowerDefence-master\TowerDefence\bin\Windows\Debug\Content\Mouse.xnb
+C:\Users\Nerd_lady\Documents\Gi\TowerDefence\obj\x86\Debug\TowerDefence.exe
+C:\Users\Nerd_lady\Documents\Gi\TowerDefence\obj\x86\Debug\TowerDefence.pdb
