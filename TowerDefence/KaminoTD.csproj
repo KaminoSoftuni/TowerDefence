@@ -69,6 +69,7 @@
     <Compile Include="GameObjects\Towers\SiegeTower.cs" />
     <Compile Include="GameObjects\Towers\Tower.cs" />
     <Compile Include="Geometry\Point.cs" />
+    <Compile Include="Interfaces\ICastle.cs" />
     <Compile Include="Interfaces\IEnemy.cs" />
     <Compile Include="Interfaces\IEngine.cs" />
     <Compile Include="Interfaces\IGameObject.cs" />

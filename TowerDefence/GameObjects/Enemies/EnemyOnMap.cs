@@ -85,8 +85,6 @@ namespace KaminoTD.GameObjects.Enemies
             foreach (var en in enemy)
             {
                 en.Draw(spriteBatch);
-                
-
             }
         }
     }

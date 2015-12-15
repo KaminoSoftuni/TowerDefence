@@ -106,8 +106,11 @@ namespace KaminoTD
             if (baseTower.Health <= 0)
             {
                 spriteBatch.Draw(gameOver , Vector2.Zero , Color.White);
-              Thread.Sleep(2000);
-                Environment.Exit(0);
+
+
+                Thread.Sleep(1000);
+                Exit();
+                
             }
             
             
