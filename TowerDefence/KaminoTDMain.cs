@@ -1,13 +1,19 @@
-﻿using System;
-
+﻿
 namespace KaminoTD
 {
+    using System;
+
+    using Core;
+    using Interfaces;
+
     public static class KaminoTDMain
     {
         [STAThread]
         static void Main()
         {
-            using (var game = new Game1())
+            IEngine engine = new GameEngine();
+
+            using (var game = new Game1(engine))
                 game.Run();
         }
     }

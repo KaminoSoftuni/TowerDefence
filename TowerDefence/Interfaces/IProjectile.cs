@@ -1,6 +1,8 @@
 ﻿
 namespace KaminoTD.Interfaces
 {
+    using Enumerations;
+
     public interface IProjectile : IGameObject
     {
         int Damage { get; }
@@ -8,5 +10,7 @@ namespace KaminoTD.Interfaces
         int Speed { get; }
 
         IEnemy Target { get; }
+
+        ProjectileTypes Type { get; }
     }
 }

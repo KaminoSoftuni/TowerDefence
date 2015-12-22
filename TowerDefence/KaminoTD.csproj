@@ -26,6 +26,7 @@
     <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -56,6 +57,7 @@
     <Compile Include="GameObjects\Enemies\AlienEnemy.cs" />
     <Compile Include="GameObjects\Enemies\EnemyOnMap.cs" />
     <Compile Include="GameObjects\Enemies\Enemy.cs" />
+    <Compile Include="GameObjects\GameObject.cs" />
     <Compile Include="GameObjects\Projectiles\Arrow.cs" />
     <Compile Include="GameObjects\Projectiles\CannonBall.cs" />
     <Compile Include="GameObjects\Projectiles\FireBall.cs" />
@@ -68,6 +70,7 @@
     <Compile Include="GameObjects\Towers\PoisonTower.cs" />
     <Compile Include="GameObjects\Towers\SiegeTower.cs" />
     <Compile Include="GameObjects\Towers\Tower.cs" />
+    <Compile Include="Geometry\GeometryCalcs.cs" />
     <Compile Include="Geometry\Point.cs" />
     <Compile Include="Interfaces\ICastle.cs" />
     <Compile Include="Interfaces\IEnemy.cs" />
@@ -98,6 +101,7 @@
   <ItemGroup>
     <Folder Include="Core\Events\" />
     <Folder Include="Core\Exceptions\" />
+    <Folder Include="Exceptions\" />
     <Folder Include="Resources\Images\" />
     <Folder Include="Resources\Sounds\" />
   </ItemGroup>

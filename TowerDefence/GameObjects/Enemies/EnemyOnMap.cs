@@ -1,25 +1,27 @@
-﻿using System;
-using System.CodeDom;
-using System.Collections.Generic;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
+﻿
 
 namespace KaminoTD.GameObjects.Enemies
 {
+    using System.Collections.Generic;
+    using Microsoft.Xna.Framework;
+    using Microsoft.Xna.Framework.Graphics;
+
     public class EnemyOnMap
     {
-        private readonly List<Enemy> enemy;
+        private readonly IList<Enemy> enemy;
 
         private int count;
         private int check = 0;
         private int time = 0;
+        private CastleTower castle;
         private Texture2D enemyTexture2D;
 
-        public EnemyOnMap(Texture2D enemy, int count)
+        public EnemyOnMap(Texture2D enemy, int count , CastleTower castle)
         {
             this.Count = count;
             this.enemyTexture2D = enemy;
             this.enemy = new List<Enemy>();
+            this.castle = castle;
         }
 
         public Texture2D EnemyTexture2D
@@ -34,17 +36,13 @@ namespace KaminoTD.GameObjects.Enemies
             set { this.count = value; }
         }
 
-        public void Update(GameTime gameTime, CastleTower baseTower)
+        public void Update(GameTime gameTime)
         {
             time++;
 
             foreach (var al in enemy)
             {
                 al.Update(gameTime);
-                if (al.isAlive == false)
-                {
-                    enemy.Remove(al);
-                }
                
             }
 
@@ -52,7 +50,7 @@ namespace KaminoTD.GameObjects.Enemies
             {
                 if (check < Count)
                 {
-                    enemy.Add(new AlienEnemy(enemyTexture2D));
+                    enemy.Add(new AlienEnemy(enemyTexture2D, castle));
                     check++;
                     time++;
                 }
@@ -61,23 +59,6 @@ namespace KaminoTD.GameObjects.Enemies
             {
                 time = 0;
             }
-             RemoveEnemy(baseTower);
-        }
-
-        public void RemoveEnemy(CastleTower baseTower)
-        {
-            foreach (var en in enemy)
-            {
-                if (en.position == 799.9962f)
-                {
-                   
-                    en.Velocity.X = 1000;
-                    en.Velocity.Y = 1000;
-                    baseTower.RemoveHealth();
-                    
-                }
-            }
-
         }
 
         public void Draw(SpriteBatch spriteBatch)
@@ -86,6 +67,11 @@ namespace KaminoTD.GameObjects.Enemies
             {
                 en.Draw(spriteBatch);
             }
+        }
+
+        public IList<Enemy> getEnemyOnTheMap()
+        {
+            return enemy;
         }
     }
 }

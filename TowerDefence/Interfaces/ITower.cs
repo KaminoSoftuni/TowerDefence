@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Microsoft.Xna.Framework.Graphics;
-
+﻿
 namespace KaminoTD.Interfaces
 {
+    using Enumerations;
+
     public interface ITower : IGameObject
     {
-        void Draw(SpriteBatch spriteBatch);
+        TowerTypes Type { get; }
 
         int Speed { get; }
 
@@ -20,7 +17,7 @@ namespace KaminoTD.Interfaces
 
         int Level { get; }
 
-        int Damage { get; }
+        IProjectile Projectile { get; }
 
         IProjectile FireProjectile();
 

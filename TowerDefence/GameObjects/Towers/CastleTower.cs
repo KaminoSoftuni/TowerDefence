@@ -1,27 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Xml.Schema;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
-using TowerDefence.Interfaces;
+﻿
 
 namespace KaminoTD.GameObjects
 {
-    using Interfaces;
+    using System;
+    using Microsoft.Xna.Framework;
+    using Microsoft.Xna.Framework.Graphics;
+    using TowerDefence.GameObjects;
+    using TowerDefence.Interfaces;
 
-    public class CastleTower : ICastle
+    public class CastleTower : GameObject, ICastle
     {
- 
         private Texture2D tower;
-        private int health = 5;
+        private int health = 20;
+        private static Vector2 position;
+        private int xPosition = 588;
+        private int yPosition = 64;
 
-        public CastleTower(Texture2D tower)
+        public CastleTower(Texture2D tower) : base(position, tower, true)
         {
-
             this.Tower = tower;
-
         }
 
         public int Health
@@ -34,20 +31,32 @@ namespace KaminoTD.GameObjects
         {
             this.Health--;
         }
+        public Texture2D Tower
+        {
+            get
+            {
+                return this.tower;
+            }
+            set
+            {
+                this.tower = value;
+            }
+        }
 
-
-       
-
-        public void Draw(SpriteBatch spriteBatch)
+        public override void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Draw(tower, new Vector2(588, 64), Color.White);
 
         }
 
-        public Texture2D Tower
+        public static bool IsOnCastle(int y, int x, int buffer)
         {
-            get { return this.tower; }
-            set { this.tower = value; }
+            if ((x >= 585 + buffer / 2 && x <= 658 + buffer)
+                && (y > 10 + buffer && y < 130 + buffer))
+            {
+                return true;
+            }
+            return false;
         }
     }
 }

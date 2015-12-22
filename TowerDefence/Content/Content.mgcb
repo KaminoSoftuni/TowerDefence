@@ -97,7 +97,7 @@
 /processorParam:TextureFormat=Color
 /build:GameOver.png
 
-#begin Mouse.png
+#begin fire.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -107,5 +107,5 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Mouse.png
+/build:fire.png
 

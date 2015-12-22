@@ -2,14 +2,26 @@
 namespace KaminoTD.GameObjects.Projectiles
 {
     using System;
-    using Geometry;
+    using Enumerations;
     using Interfaces;
+    using Microsoft.Xna.Framework;
+    using Microsoft.Xna.Framework.Graphics;
 
     public class Arrow : Projectile
     {
-        public Arrow(Point coordinates, int damage, int speed, IEnemy target) 
-            : base(coordinates, damage, speed, target)
+        private const int ArrowSpeed = 11;
+        private const int ArrowDamage = 3;
+        private const ProjectileTypes Type = ProjectileTypes.ArrowProjectile;
+
+        public Arrow(Vector2 coordinates, Texture2D visualization, bool exists, IEnemy target)
+            : base(coordinates, visualization, exists, ArrowDamage, ArrowSpeed, target, Type)
         {
+
+        }
+
+        public override void Draw(SpriteBatch spriteBatch)
+        {
+            throw new NotImplementedException();
         }
     }
 }

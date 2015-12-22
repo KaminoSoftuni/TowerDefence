@@ -5,5 +5,6 @@ namespace KaminoTD.Executives
 
     public class ProjectilesController
     {
+
     }
 }
