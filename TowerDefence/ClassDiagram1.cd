@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KaminoTD.Core.GameEngine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQUUAAAQgAAAAAAAAAIAAAAFEQEAgAAAAAAAAAAAI=</HashCode>
+      <FileName>Core\GameEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KaminoTD.Executives.AnimationController" Collapsed="true">
+    <Position X="11.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Executives\AnimationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Executives.EnemyController" Collapsed="true">
+    <Position X="15" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Executives\EnemyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Executives.MapController" Collapsed="true">
+    <Position X="15" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Executives\MapController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Executives.PlayerController" Collapsed="true">
+    <Position X="16.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Executives\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Executives.ProjectilesController" Collapsed="true">
+    <Position X="11.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Executives\ProjectilesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDefence.Executives.TowersController" Collapsed="true">
+    <Position X="16.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Executives\TowersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Extencions.IEnumerableExtensions" Collapsed="true">
+    <Position X="11.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extencions\IEnumerableExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Game1" Collapsed="true">
+    <Position X="11.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQUUAAAQgAAwAAAAAAIAAAAFEQEAgABAAAAAAAAIY=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.KaminoTDMain" Collapsed="true">
+    <Position X="13.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>KaminoTDMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Enemies.AlienEnemy" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>GameObjects\Enemies\AlienEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Enemies.Enemy" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQACAAAAQAADgAAQAAAIAAAIIQCQAAAAAAAAAEEAAo=</HashCode>
+      <FileName>GameObjects\Enemies\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Enemies.EnemyOnMap" Collapsed="true">
+    <Position X="16.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASBAAAAAAAIAgAABAAAAAQAAAAAAAAEAAAACAAAAAo=</HashCode>
+      <FileName>GameObjects\Enemies\EnemyOnMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDefence.GameObjects.GameObject" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACgAAAAAAAAAAIAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>GameObjects\GameObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Projectiles.Arrow" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQEAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Projectiles\Arrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Projectiles.CannonBall" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAIAAAAAAAAAAAAAAgQAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Projectiles\CannonBall.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Projectiles.FireBall" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAAAQAAAAIAAAA=</HashCode>
+      <FileName>GameObjects\Projectiles\FireBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Projectiles.IceBolt" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAABAAAAAAQAEAAAAAAA=</HashCode>
+      <FileName>GameObjects\Projectiles\IceBolt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Projectiles.PoisonArrow" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQQAAAAAIAA=</HashCode>
+      <FileName>GameObjects\Projectiles\PoisonArrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Projectiles.Projectile" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAIAAAACABAAAAAQAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Projectiles\Projectile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.GameObjects.CastleTower" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQCEAAEAAAAgAAgAAAIAAAAAACAAAAAAAAACAAAAg=</HashCode>
+      <FileName>GameObjects\Towers\CastleTower.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Tower" Collapsed="true">
+    <Position X="18.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIhAAAIAQBACAAAIAEgACABAAAAAQABAQAAAAAAIAA=</HashCode>
+      <FileName>GameObjects\Towers\Tower.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Towers.FireTower" Collapsed="true">
+    <Position X="19.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAgAAAAAAAABAAAQAAAAAAEAA=</HashCode>
+      <FileName>GameObjects\Towers\FireTower.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Towers.FrostTower" Collapsed="true">
+    <Position X="21.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAgQAAAAAAAAAAAAAAAAAEQAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Towers\FrostTower.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Towers.PoisonTower" Collapsed="true">
+    <Position X="15" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAACACAAQAQAAAAAAA=</HashCode>
+      <FileName>GameObjects\Towers\PoisonTower.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.GameObjects.Towers.SiegeTower" Collapsed="true">
+    <Position X="17.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAgAAAIAAAAAAAACAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Towers\SiegeTower.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KaminoTD.Geometry.GeometryCalcs" Collapsed="true">
+    <Position X="16.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Geometry\GeometryCalcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Map.GameMap" Collapsed="true">
+    <Position X="15" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAgAAgAIAAAAAAAAAAAQAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Map\GameMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Services.Constants" Collapsed="true">
+    <Position X="13.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Services.Statistic" Collapsed="true">
+    <Position X="13.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Statistic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KaminoTD.Services.Timer" Collapsed="true">
+    <Position X="15" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="TowerDefence.Geometry.Point" Collapsed="true">
+    <Position X="11.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Geometry\Point.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="TowerDefence.Interfaces.ICastle" Collapsed="true">
+    <Position X="11.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICastle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KaminoTD.Interfaces.IEnemy" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAQAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KaminoTD.Interfaces.IEngine" Collapsed="true">
+    <Position X="13.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IEngine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KaminoTD.Interfaces.IGameObject" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACgAAAAAAAAAAIAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Interfaces\IGameObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KaminoTD.Interfaces.IProjectile" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAACABAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KaminoTD.Interfaces.ITower" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAQAACAAAAAAgACABAAAAAAABAQAAAAAAIAA=</HashCode>
+      <FileName>Interfaces\ITower.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="KaminoTD.Enumerations.MinionStates" Collapsed="true">
+    <Position X="11.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAA=</HashCode>
+      <FileName>Enumerations\MinionStates.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KaminoTD.Enumerations.MinionTypes" Collapsed="true">
+    <Position X="13.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerations\MinionTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KaminoTD.Enumerations.ProjectileTypes" Collapsed="true">
+    <Position X="15" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Enumerations\ProjectileTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KaminoTD.Enumerations.TowerTypes" Collapsed="true">
+    <Position X="16.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAACAAAAAAAAAAAAAAAEAAAAAAgAAAAAQAA=</HashCode>
+      <FileName>Enumerations\TowerTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
